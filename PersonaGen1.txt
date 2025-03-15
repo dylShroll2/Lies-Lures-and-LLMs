@@ -1,0 +1,21 @@
+Help me create a persona based on this photograph. Define the following characteristcs 
+
+Primary:
+  Name
+  Age
+  Gender
+  Occupation
+  Role
+  Socio-economic Status
+  Technical skill level
+  Primary Language
+Secondary:
+  Personality Traits
+  Communication Style
+  Intro/extroversion score
+  Agreeableness score
+  Cultural tags
+  Vocabulary
+  Formality
+  Colloquialisms
+
