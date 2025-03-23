@@ -1,2 +1,2 @@
 Help me generate a resume. Fill out the work history with examples of real companies I could have worked for in my industry and career path. Only include the last 3 positions I could have held. Some details about me are below:
-#paste in primary and secondary attributes
+#paste in primary and secondary attributes from persona generation response
